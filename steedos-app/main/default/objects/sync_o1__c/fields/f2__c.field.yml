@@ -1,0 +1,21 @@
+name: f2__c
+data_type: text
+defaultValue: null
+description: null
+filterable: false
+formula: '''f1 是：'' + f1__c'
+formula_blank_value: zeroes
+group: null
+hidden: false
+index: false
+inlineHelpText: null
+is_name: false
+is_wide: false
+label: F2
+omit: false
+readonly: false
+required: false
+searchable: false
+sort_no: 130
+sortable: false
+type: formula
