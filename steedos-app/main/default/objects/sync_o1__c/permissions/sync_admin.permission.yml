@@ -1,9 +1,0 @@
-allowCreate: false
-allowDelete: false
-allowEdit: false
-allowRead: true
-modifyAllRecords: false
-modifyCompanyRecords: false
-object_name: sync_o1__c
-viewAllRecords: false
-viewCompanyRecords: false

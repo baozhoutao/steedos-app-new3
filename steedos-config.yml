@@ -18,7 +18,7 @@ email:
   secure: true
   from:
 tenant:
-  _id:
+  _id: 
   name: 华炎魔方
   logo_url:
   background_url: 
